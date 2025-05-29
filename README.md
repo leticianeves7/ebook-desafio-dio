@@ -17,10 +17,11 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+---------------------------------------------------------------------------------------------------------- |
 |  título  | Me traga titulos para um ebook. Exemplo: "Como ganhar dinheiro em casa (ex: com Shopee, Mercado Livre, afiliados)"                                                      
 | conteúdo | Me ajude com uma introdução que traga um pouco do titulo, no ebook vou mostrar como abrir a loja on-line para as pessoas (estudantes, donas de casa etc.) a ganharem dinheiro em casa
 
-| conteúdo | Chat melhore esse texto "...". (Esse fui trazendo os conteudos que iria trabalhar escrevendo o que eu sabia que ia agregar ao ebook e pedia para a IA me ajudar corrigindo-os e melhorando os textos)
+| + conteúdo | Chat melhore esse texto "...". (Esse fui trazendo os conteudos que iria trabalhar escrevendo o que eu sabia que ia agregar ao ebook e pedia para a IA me ajudar corrigindo-os e melhorando os textos)
 
 
 ## ✨ Features
