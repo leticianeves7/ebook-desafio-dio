@@ -1,43 +1,59 @@
-# Projeto EBOOK DIO - Do Zero ao Lucro com Mercado Livre e Shoppe
+# 📘 Projeto EBOOK DIO - *Do Zero ao Lucro com Mercado Livre e Shopee*
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante desafio do bootcamp da DIO, de autoria própia com auxilio de IA.
+> ℹ️ **Nota:** Este é um repositório desenvolvido durante um desafio do bootcamp da DIO, com autoria própria e auxílio de Inteligência Artificial.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts utilizados durante a criação do ebook
-seguem abaixo.
+Este projeto tem como objetivo a criação de um eBook digital utilizando ferramentas de IA, facilitando todo o processo de escrita, imagens e estruturação. Todos os prompts utilizados durante a criação do eBook estão listados abaixo para referência e reaproveitamento.
 
-## 💻 Tecnologias utilizadas no projeto
+---
 
-- [ChatGPT](https://chat.openai.com/) 
-- [Keynote](https://www.apple.com/br/keynote/)
-- [MidJourney](https://www.midjourney.com/app/)
-## 🧠 Prompts
+## 💻 Tecnologias Utilizadas
 
+- [ChatGPT](https://chat.openai.com/) – Geração de texto e conteúdo
+- [Keynote](https://www.apple.com/br/keynote/) – Montagem do eBook
+- [MidJourney](https://www.midjourney.com/app/) – Criação de imagens
+- [Gemini](https://deepmind.google/technologies/gemini/) – Criação de imagens
+- [NounProject](https://thenounproject.com) - Ícones
+- [Flaticon](https://www.flaticon.com/br/) - Ícones
 
-ChatGPT：
+---
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
----------------------------------------------------------------------------------------------------------- |
-|  título  | Me traga titulos para um ebook. Exemplo: "Como ganhar dinheiro em casa (ex: com Shopee, Mercado Livre, afiliados)"                                                      
-| conteúdo | Me ajude com uma introdução que traga um pouco do titulo, no ebook vou mostrar como abrir a loja on-line para as pessoas (estudantes, donas de casa etc.) a ganharem dinheiro em casa
+## 🧠 Prompts Utilizados
 
-| + conteúdo | Chat melhore esse texto "...". (Esse fui trazendo os conteudos que iria trabalhar escrevendo o que eu sabia que ia agregar ao ebook e pedia para a IA me ajudar corrigindo-os e melhorando os textos)
+| Ação        | Prompt Exemplo                                                                                                                                                                   |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Título      | `Me traga títulos para um ebook. Exemplo: "Como ganhar dinheiro em casa (ex: com Shopee, Mercado Livre, afiliados)"`                                                           |
+| Introdução  | `Me ajude com uma introdução que traga um pouco do título. No ebook vou mostrar como abrir uma loja online para estudantes, donas de casa etc. ganharem dinheiro em casa.`     |
+| Melhoria de texto | `Chat, melhore esse texto: "..."` – Foram utilizados textos base escritos manualmente e otimizados com IA.                                                               |
 
+---
 
-## ✨ Features
+## ✨ Funcionalidades
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney e Gemini
+- Conteúdo gerado com *auxílio* do ChatGPT
+- Imagens ilustrativas criadas por MidJourney e Gemini
+- Processo criativo documentado com prompts reutilizáveis
 
-## 📚 Materiais
+---
 
-- Imagens utilizadas em `assets`
-- ebook em `output`
+## 📚 Materiais Disponíveis
 
-## 🛠️ Instruções de execução
+- 📁 `assets/` → Imagens utilizadas no eBook  
+- 📄 `output/` → Versão final do eBook em PDF
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, keynote, canva...
+---
 
-## 👨‍💻 Expert
+## 🛠️ Como Criar o Seu Próprio eBook
 
-📕 por [Leticia Neves]((https://github.com/leticianeves7))
+1. Use os prompts fornecidos com o ChatGPT para gerar o conteúdo.
+2. Utilize o MidJourney/Gemini para criar imagens temáticas.
+3. Monte a estrutura visual do eBook no Keynote, PowerPoint ou Canva.
+4. Exporte em PDF para distribuição.
+
+---
+
+## 👩‍💻 Autoria
+
+Criado com 💙 por [Letícia Neves](https://github.com/leticianeves7)
+
+---
+
