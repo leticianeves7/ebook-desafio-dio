@@ -37,8 +37,8 @@ Este projeto tem como objetivo a criação de um eBook digital utilizando ferram
 
 ## 📚 Materiais Disponíveis
 
-- 📁 `assets/` → Imagens utilizadas no eBook  
-- 📄 `output/` → Versão final do eBook em PDF
+- 📁 [assets](https://github.com/leticianeves7/ebook-mercado-livre-shopee/tree/main/assets) → Imagens utilizadas no eBook  
+- 📄 [output](https://github.com/leticianeves7/ebook-mercado-livre-shopee/tree/main/output) → Versão final do eBook em PDF
 
 ---
 
