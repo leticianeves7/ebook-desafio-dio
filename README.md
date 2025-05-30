@@ -4,6 +4,7 @@
 
 Este projeto tem como objetivo a criação de um eBook digital utilizando ferramentas de IA, facilitando todo o processo de escrita, imagens e estruturação. Todos os prompts utilizados durante a criação do eBook estão listados abaixo para referência e reaproveitamento.
 
+<a href="https://github.com/leticianeves7/ebook-dozeroaolucro/blob/main/output/Ebook%20-%20Shopee%20e%20Mercado%20Livre.pdf" title="View PDF now"> 📘Clique aqui para ler</a>
 ---
 
 ## 💻 Tecnologias Utilizadas
