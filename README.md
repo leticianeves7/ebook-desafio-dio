@@ -1,4 +1,4 @@
-# 📘 Projeto EBOOK DIO - *Do Zero ao Lucro com Mercado Livre e Shopee*
+# 📘 Projeto EBOOK - *Do Zero ao Lucro com Mercado Livre e Shopee*
 
 > ℹ️ **Nota:** Este é um repositório desenvolvido durante um desafio do bootcamp da DIO, com autoria própria e auxílio de Inteligência Artificial.
 
